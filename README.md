@@ -1,2 +1,2 @@
 # Web-Scraping
-Files in this repository involve the scraping of mars data from different sources to create a simple web page that shows all the data scraped.
+Built a web application that scrapes various websites for data related to the Mission to Mars and displays the information in a single HTML page. 
